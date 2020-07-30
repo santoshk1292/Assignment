@@ -20,5 +20,5 @@ Please refer the pom.xml for the same.
 Please refer the excel sheet "Test Cases.xlsx" for the same at project level.
 
 ## Test Data
-Please refer the above excel sheet for the same.
+Please refer the above mentioned excel sheet for the same at project level.
 
