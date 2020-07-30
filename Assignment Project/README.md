@@ -16,9 +16,9 @@ Please refer "formPalindrome" package for the above java implementation.
 ## Dependencies
 Please refer the pom.xml for the same.
 
-##Manual Test Cases
+## Manual Test Cases
 Please refer the excel sheet "Test Cases.xlsx" for the same at project level.
 
-##Test Data
+## Test Data
 Please refer the above excel sheet for the same.
 
