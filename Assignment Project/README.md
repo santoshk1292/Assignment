@@ -4,7 +4,7 @@ Assignment Project
 ## Description
 A High Level Automation Framework with proper folder structure and sample automation script. Along with a java implementation to form the PALINDROME using few conditions.
 
-Please refer "formPalindrome" package for the above java implementation.
+Please refer "src/test/java/formPalindrome" package for the above java implementation.
 
 ## Technologies Used
 	-Java
