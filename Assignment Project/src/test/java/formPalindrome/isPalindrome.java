@@ -18,8 +18,8 @@ public class isPalindrome {
 
 	public static String alphabetCreator(int wordLength, int alpha, int digit, int specialCharacters) {
 		StringBuilder str = new StringBuilder();
-		if (alpha % 2 == 0 && alpha > 0 && wordLength <= 20 && alpha + digit + specialCharacters <= wordLength
-				&& wordLength > 0) {
+		if (alpha % 2 == 0 && alpha > 0 && wordLength <= 20 && digit > 0 && specialCharacters > 0
+				&& alpha + digit + specialCharacters <= wordLength && wordLength > 0) {
 			for (int i = 0; i < alpha / 2; ++i) {
 				char alphabet = (char) (65 + i % 26);
 				str.append(alphabet);
